@@ -27,4 +27,5 @@ Bem-vindo ao meu portfólio! Apresento projetos utilizando React, Node.js, JavaS
 
 Contato
 Email: bielerick1998@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/gabriel-erick-a58708248/
