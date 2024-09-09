@@ -29,4 +29,8 @@ Contato
 
 Email: bielerick1998@gmail.com
 
+<<<<<<< HEAD
 LinkedIn: https://www.linkedin.com/in/gabriel-erick-a58708248/
+=======
+LinkedIn: https://www.linkedin.com/in/gabriel-erick-a58708248/
+>>>>>>> 481b05e5383325fb2e1b318c15b07066dd61ff20
