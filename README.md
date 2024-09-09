@@ -34,74 +34,13 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos que desenvolvi util
 2. Eu tentarei adivinhar o número.
 3. Você me dirá se meu palpite é "Muito Alto", "Muito Baixo" ou "Correto".
 
-**Vamos jogar?**
+**[Clique aqui para jogar!](https://seulink.com/jogo-adivinhacao)**
 
+## 📬 Contato
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jogo de Adivinhação</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-        }
-        #game {
-            text-align: center;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        button {
-            margin-top: 10px;
-            padding: 10px 20px;
-            border: none;
-            background-color: #007bff;
-            color: white;
-            font-size: 16px;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div id="game">
-        <h1>Adivinhe o Número!</h1>
-        <p id="message">Pense em um número entre 1 e 100.</p>
-        <button onclick="playGame()">Começar!</button>
-    </div>
+- ✉️ **Email:** [bielerick1998@gmail.com](mailto:bielerick1998@gmail.com)
+- 💼 **LinkedIn:** [Gabriel Erick](https://www.linkedin.com/in/gabriel-erick-a58708248/)
 
-    <script>
-        function playGame() {
-            let min = 1;
-            let max = 100;
-            let guess;
-            let feedback;
+---
 
-            do {
-                guess = Math.floor((min + max) / 2);
-                feedback = prompt(`Meu palpite é ${guess}. Está "Muito Alto", "Muito Baixo" ou "Correto"?`);
-
-                if (feedback.toLowerCase() === 'muito alto') {
-                    max = guess - 1;
-                } else if (feedback.toLowerCase() === 'muito baixo') {
-                    min = guess + 1;
-                }
-            } while (feedback.toLowerCase() !== 'correto');
-
-            alert('Eu acertei!');
-            document.getElementById('message').innerText = 'Jogo finalizado. Obrigado por jogar!';
-        }
-    </script>
-</body>
-</html>
-
+Obrigado por visitar meu portfólio! Estou sempre aberto a novas oportunidades e desafios.
