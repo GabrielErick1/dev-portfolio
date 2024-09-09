@@ -35,7 +35,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos que desenvolvi util
 3. Você me dirá se meu palpite é "Muito Alto", "Muito Baixo" ou "Correto".
 
 <li style="list-style-type: none;" id="li">
-<a id="a" href="https://GabrielErick1.github.io/dev-portfolio/index.html/">Jogue Agora</a>
+<a id="a" href="https://GabrielErick1.github.io/dev-portfolio/">Jogue Agora</a>
 </li>
 
 ## 📬 Contato
