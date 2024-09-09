@@ -24,6 +24,7 @@ Bem-vindo ao meu portfólio! Apresento projetos utilizando React, Node.js, JavaS
 ## Projetos Back-End
 
 - [Projeto Notas APi](https://github.com/GabrielErick1/dev-portfolio/tree/main/taskUser)
+- [Loja DE Carro API esse é um projeto proprio para ](https://github.com/GabrielErick1/dev-portfolio/tree/main/taskUser)
 
 
 ## ----------------------------------------
