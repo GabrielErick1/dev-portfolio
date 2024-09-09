@@ -34,7 +34,9 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos que desenvolvi util
 2. Eu tentarei adivinhar o número.
 3. Você me dirá se meu palpite é "Muito Alto", "Muito Baixo" ou "Correto".
 
-**[Clique aqui para jogar!](https://seulink.com/jogo-adivinhacao)**
+<li style="list-style-type: none;" id="li">
+<a id="a" href="https://GabrielErick1.github.io/dev-portfolio/index.html/">Jogue Agora</a>
+</li>
 
 ## 📬 Contato
 
