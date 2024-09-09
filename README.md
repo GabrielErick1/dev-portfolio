@@ -6,15 +6,15 @@ Bem-vindo ao meu portfólio! Apresento projetos utilizando React, Node.js, JavaS
 
 ## Projetos Gerais
 
-- [Calculadora](https://GabrielErick1/dev-portfolio/tree/main/calculadora)
-- [Teste de IMC (JavaScript, HTML, CSS3)](https://GabrielErick1/dev-portfolio/tree/main/javaScript/testedeobsidade/)
-- [Landing Page 1](https://GabrielErick1/dev-portfolio/tree/main/htmlsite/site/)
-- [Landing Page 2](https://GabrielErick1/dev-portfolio/tree/main/htmlsite/sitenv/)
-- [GitHub Favoritos](https://GabrielErick1/dev-portfolio/tree/main/projetogit01/)
+- [Calculadora](https://github.com/GabrielErick1/dev-portfolio/tree/main/calculadora)
+- [Teste de IMC (JavaScript, HTML, CSS3)](https://github.com/GabrielErick1/dev-portfolio/tree/main/javaScript/testedeobsidade/)
+- [Landing Page 1](https://github.com/GabrielErick1/dev-portfolio/tree/main/htmlsite/site/)
+- [Landing Page 2](https://github.com/GabrielErick1/dev-portfolio/tree/main/htmlsite/sitenv/)
+- [GitHub Favoritos](https://github.com/GabrielErick1/dev-portfolio/tree/main/projetogit01/)
 
 ## Projetos em React
 
-- [Quiz React](https://GabrielErick1/dev-portfolio/tree/main/quiz/)
+- [Quiz React](https://github.com/GabrielErick1/dev-portfolio/tree/main/quiz/)
 - [Dogs Front Completo](https://github.com/GabrielErick1/dev-portfolio/tree/main/dogs)
 
 ## Projetos em React Native
