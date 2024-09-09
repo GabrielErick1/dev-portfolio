@@ -37,21 +37,71 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos que desenvolvi util
 **Vamos jogar?**
 
 ```bash
-# Código básico do jogo (você pode implementar isso em JavaScript):
-let min = 1;
-let max = 100;
-let guess;
-let feedback;
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jogo de Adivinhação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        #game {
+            text-align: center;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            border: none;
+            background-color: #007bff;
+            color: white;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="game">
+        <h1>Adivinhe o Número!</h1>
+        <p id="message">Pense em um número entre 1 e 100.</p>
+        <button onclick="playGame()">Começar!</button>
+    </div>
 
-do {
-    guess = Math.floor((min + max) / 2);
-    feedback = prompt(`Meu palpite é ${guess}. Está muito alto, muito baixo ou correto?`);
-    
-    if (feedback === 'Muito Alto') {
-        max = guess - 1;
-    } else if (feedback === 'Muito Baixo') {
-        min = guess + 1;
-    }
-} while (feedback !== 'Correto');
+    <script>
+        function playGame() {
+            let min = 1;
+            let max = 100;
+            let guess;
+            let feedback;
 
-alert('Eu acertei!');
+            do {
+                guess = Math.floor((min + max) / 2);
+                feedback = prompt(`Meu palpite é ${guess}. Está "Muito Alto", "Muito Baixo" ou "Correto"?`);
+
+                if (feedback.toLowerCase() === 'muito alto') {
+                    max = guess - 1;
+                } else if (feedback.toLowerCase() === 'muito baixo') {
+                    min = guess + 1;
+                }
+            } while (feedback.toLowerCase() !== 'correto');
+
+            alert('Eu acertei!');
+            document.getElementById('message').innerText = 'Jogo finalizado. Obrigado por jogar!';
+        }
+    </script>
+</body>
+</html>
+
