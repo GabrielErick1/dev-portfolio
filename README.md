@@ -25,6 +25,9 @@ Bem-vindo ao meu portfólio! Apresento projetos utilizando React, Node.js, JavaS
 
 - [Projeto Notas APi](https://github.com/GabrielErick1/dev-portfolio/tree/main/taskUser)
 
+
+## ----------------------------------------
+
 Contato
 
 Email: bielerick1998@gmail.com
