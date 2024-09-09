@@ -36,7 +36,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos que desenvolvi util
 
 **Vamos jogar?**
 
-```bash
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
