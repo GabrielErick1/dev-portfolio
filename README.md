@@ -24,7 +24,7 @@ Bem-vindo ao meu portfólio! Aqui você encontrará projetos que desenvolvi util
 ### 🛠️ Projetos Back-End
 
 - 📝 [Projeto Notas API](https://github.com/GabrielErick1/dev-portfolio/tree/main/taskUser)
-- 🚗 [Loja de Carro API](https://github.com/GabrielErick1/dev-portfolio/tree/main/taskUser)
+- 🚗 [Loja de Carro API](https://github.com/GabrielErick1/dev-portfolio/tree/main/gestaoOfcina)
 
 ## 🎮 Mini Jogo: Adivinhe o Número!
 
